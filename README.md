@@ -3,6 +3,6 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=B1buBwhr-H0">
-    <img src="https://github.com/TroyMetrics/Benchmark-Overlays/blob/main/assets/images/Video_Thumbnail.png?raw=true" width="850">
+    <img src="https://github.com/TroyMetrics/Ultimate-Benchmark-Overlays/blob/main/assets/images/YT_Thumbnail.png?raw=true" width="850">
   </a>
 </div

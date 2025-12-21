@@ -15,7 +15,7 @@ A high-precision, **adaptive** performance overlay for RTSS that automatically a
 
 <div align="center">
   <a href="https://youtu.be/UXC3-rGV7BA">
-    <img src="https://github.com/TroyMetrics/Ultimate-Benchmark-Overlays/blob/main/assets/images/GH_YT_Thumbnail.png?raw=true" width="850">
+    <img src="https://github.com/TroyMetrics/TM-Benchmark-2/blob/main/assets/images/Thumbnail%20v3%20PB.png?raw=true" width="850">
   </a>
 </div>
 

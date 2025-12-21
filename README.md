@@ -23,7 +23,7 @@ A high-precision, **adaptive** performance overlay for RTSS that automatically a
 
 ## ✅ Prerequisites
 
-Before setting up the TroyMetrics Benchmark Overlay, make sure the following software is installed and properly configured:
+Before setting up the TM Benchmark 2 Overlays, make sure the following software is installed and properly configured:
 
 **✅ MSI Afterburner + RivaTuner Statistics Server (RTSS)**
 
@@ -54,7 +54,7 @@ Before setting up the TroyMetrics Benchmark Overlay, make sure the following sof
 > ⚠️ **Important:** RTSS must be installed on the **C:\\ drive**. Installing it elsewhere (e.g. D:\\) can cause missing or broken overlay icons due to location-dependent resources. See [Issue #7](https://github.com/TroyMetrics/Benchmark-Overlays/issues/7) for details and a potential work around.
 
 **1. 📦 Extract and Prepare Files**
-- Open the downloaded package: **`TroyMetrics Benchmark Overlays V2`**
+- Open the downloaded package: **`TM Benchmark 2 Overlays`**
 - In a **new File Explorer window**, navigate to your **`C:\` drive**
 
 **2. 📁 Copy Overlay Files to RTSS**
@@ -95,7 +95,7 @@ Before setting up the TroyMetrics Benchmark Overlay, make sure the following sof
 1. With **OverlayEditor.dll** enabled, double-click it or click **`[Setup]`** after high-lighting it 
 2. In the Overlay Editor window:
    - Go to the **`Layouts`** tab → Click **`Load`**
-   - Select one of the **`TM Benchmark Ultimate`** presets → Click **`Open`**
+   - Select one of the **`TM Benchmark 2`** presets → Click **`Open`**
 
 ---
 

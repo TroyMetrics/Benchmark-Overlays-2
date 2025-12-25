@@ -1,4 +1,4 @@
-<h1 align="center">TroyMetrics Benchmark 2 Overlays</h1>
+<h1 align="center">TroyMetrics Benchmark Overlays 2</h1>
 <p align="center">RTSS / RivaTuner Overlays by TroyMetrics 👻</p>
 
 <div align="center">
@@ -54,7 +54,7 @@ Before setting up the TM Benchmark 2 Overlays, make sure the following software 
 > ⚠️ **Important:** RTSS must be installed on the **C:\\ drive**. Installing it elsewhere (e.g. D:\\) can cause missing or broken overlay icons due to location-dependent resources. See [Issue #7](https://github.com/TroyMetrics/Benchmark-Overlays/issues/7) for details and a potential work around.
 
 **1. 📦 Extract and Prepare Files**
-- Open the downloaded package: **`TM Benchmark 2 Overlays`**
+- Open the downloaded package
 - In a **new File Explorer window**, navigate to your **`C:\` drive**
 
 **2. 📁 Copy Overlay Files to RTSS**
@@ -117,6 +117,7 @@ To adjust scaling, simply use the Zoom slider in RTSS to fit your display.
 <div align="center">
   <img src="https://github.com/TroyMetrics/Benchmark-Overlays/blob/main/assets/images/RTSS_Zoom_Example.gif?raw=true">
 </div>
+🖥️ For 1080p users, select the 1080p presets — these were fully redesigned to deliver crisp visuals and proper scaling at 1080p resolution. <br><br>
 
 ✅ Your overlay is now fully active and ready to use!
 

@@ -111,7 +111,7 @@ Before setting up the TM Benchmark 2 Overlays, make sure the following software 
 
 **7. 🔍 Adjust Zoom Slider (if necessary)**
 
-[**Size Reference Chart**](https://raw.githubusercontent.com/TroyMetrics/Benchmark-Overlays-2/refs/heads/main/assets/images/TMBO2%20Size%20Reference%20Chart.png)
+[Size Reference Chart](https://github.com/TroyMetrics/Benchmark-Overlays-2/blob/main/assets/images/TMBO2%20Size%20Reference%20Chart.png) — Download and view at 100% scale for accurate size representation.
 
 The overlay was originally designed for 4K displays at a 300% Zoom level for maximum sharpness and pixel clarity.
 

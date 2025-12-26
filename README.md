@@ -125,7 +125,7 @@ To adjust scaling, simply use the Zoom slider in RTSS to fit your display.
 
 # ❤️ A Note to the Community
 
-If you encounter any issues, or anything that feels off — please open an Issue on GitHub. Screenshots are incredibly helpful and greatly speed up fixes.
+If you encounter any issues, or anything that feels off — please open an [Issue](https://github.com/TroyMetrics/Benchmark-Overlays-2/issues/new) on GitHub. Screenshots are incredibly helpful and greatly speed up fixes.
 
 Your reports and suggestions directly help these project grow.
 Thank you for testing, supporting, and helping improve these overlays for everyone. 🙏

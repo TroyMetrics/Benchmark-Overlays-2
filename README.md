@@ -111,6 +111,8 @@ Before setting up the TM Benchmark 2 Overlays, make sure the following software 
 
 **7. 🔍 Adjust Zoom Slider (if necessary)**
 
+[**Size Reference Chart**](https://raw.githubusercontent.com/TroyMetrics/Benchmark-Overlays-2/refs/heads/main/assets/images/TMBO2%20Size%20Reference%20Chart.png)
+
 The overlay was originally designed for 4K displays at a 300% Zoom level for maximum sharpness and pixel clarity.
 
 To adjust scaling, simply use the Zoom slider in RTSS to fit your display.
